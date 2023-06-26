@@ -18,7 +18,7 @@ public class Arithmetic_Exception {
 			System.out.println("Excuted even when exception occurs or not");
 		}
 		
- System.out.println("***CODE EXECUTED****");
+ System.out.println("********CODE EXECUTED********");
 		
 	}
 }
